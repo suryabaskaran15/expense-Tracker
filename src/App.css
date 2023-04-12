@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.displayView{
+  justify-content: center;
+  border: solid black 1px;
+  height: fit-content;
+  margin: 50px;
+}
